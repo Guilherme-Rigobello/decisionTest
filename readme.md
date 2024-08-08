@@ -10,4 +10,5 @@ Project based on **<span style="color:orange;">JS,</span>** **<span style="color
 ### **Training Logic 💡**
 
 
+https://github.com/user-attachments/assets/ee85d005-7b6c-4fe7-9efd-59f66928949a
 
